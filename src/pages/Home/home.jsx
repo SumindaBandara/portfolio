@@ -22,10 +22,8 @@ export default function Home() {
             <main>
                 <HeroSection />
                 <GallerySection />
-                <ServicesSection />
-                <AboutSection />
-                <ProcessSection />
                 <PricingSection />
+                <AboutSection />
                 <TestimonialsSection />
                 <FAQSection />
                 <ContactSection />
